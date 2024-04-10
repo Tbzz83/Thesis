@@ -47,3 +47,6 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# wf-metagenomics html
+wf-metagenomics-report old and young.html
